@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: hypermodernpython
+Version: 0.1.0
+Summary: The hypermodern Python project
+Home-page: https://github.com/Loungagna/hypermodernPython
+Author: Francois Audibert
+Author-email: loungagna@me.com
+License: UNKNOWN
+Description: # hypermodernPython
+        Generic Python Installation
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
