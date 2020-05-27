@@ -2,6 +2,7 @@ README.md
 setup.py
 src/hypermodernpython/__init__.py
 src/hypermodernpython/console.py
+src/hypermodernpython/wikipedia.py
 src/hypermodernpython.egg-info/PKG-INFO
 src/hypermodernpython.egg-info/SOURCES.txt
 src/hypermodernpython.egg-info/dependency_links.txt
